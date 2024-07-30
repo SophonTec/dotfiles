@@ -12,6 +12,7 @@ set number       "Sets linenumbers
 set linespace=15     "Sets line spacing but only in gui
 
 set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+set ww+=<,>,[,]
 
 "---------Colors------------
 
